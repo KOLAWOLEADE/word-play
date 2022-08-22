@@ -38,14 +38,17 @@ $(document).ready(function(){
 
         // console.log(emptyarr);
 
-        emptyarr = emptyarr.reverse();
+        emptyarr = emptyarr.reverse()
         emptyarr = emptyarr.join("");
 
 
         console.log(emptyarr);
 
-        
+        $(".purpose").show();
 
+        $("#output").text(emptyarr)
+
+        
         
        
 
