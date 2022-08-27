@@ -1,5 +1,6 @@
 .purpose{
     display: none;
+    color: white;
 }
 
 body{
@@ -25,10 +26,10 @@ h3{
 
 }
 
-
+/* 
 .purpose{
-    color: white;
-}
+   
+} */
 
 
 

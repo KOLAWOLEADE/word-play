@@ -38,7 +38,7 @@ $(document).ready(function(){
 
         // console.log(emptyarr);
 
-        emptyarr = emptyarr.reverse()
+        emptyarr = emptyarr.reverse();
         emptyarr = emptyarr.join("");
 
 
@@ -46,7 +46,7 @@ $(document).ready(function(){
 
         $(".purpose").show();
 
-        $("#output").text(emptyarr)
+        $("#output").text(emptyarr);
 
         
         
